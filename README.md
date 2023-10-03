@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋
-🔭 I'm currently working on an AR based furniture shopping application.<br>👯 I'm looking to collaborate on Deep Learning projects.<br>🤝 I'm currently looking for help with AR measurement technology.<br>🌱 I'm currently learning deep learning and AI techniques.<br>💬 Ask me about math and algo.<br>😄 Pronouns: She/her<br>⚡Fun fact: Alligators emit the loudest sounds of any reptiles in the world.
+🔭 I'm currently working on an AR based furniture shopping application.<br>👯 I'm looking to collaborate on Deep Learning projects.<br>🤝 I'm currently looking for help with AR measurement technology.<br>🌱 I'm currently learning deep learning and AI techniques.<br>💬 Ask me about math and algo.<br>⚡Fun fact: Alligators emit the loudest sounds of any reptiles in the world.
 
 
 # 💻 Tech Stack:
