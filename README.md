@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi there 
-🔭 Currently working on a Big Data Engineering project.<br>
-👯 Looking to collaborate on AI, Deep Learning, and related projects.<br>
-🌱 All about data science, cloud, and AI technologies.<br>
+👩🏼‍💻 Learning Computers and Data Science. <br> 
 💬 Ask me about Python, Math, and Algorithms.<br>
+📞 Contact me at [farin0615@gmail.com](farin0615@gmail.com) <br>
 ⚡ Fun fact: The world's first computer programmer was Ada Lovelace, who wrote the first algorithm intended to be processed by a machine.
 
 # 💻 Tech Stack:
